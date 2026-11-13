@@ -1,0 +1,6 @@
+@MessaggiKeycloak_HostAddress = http://localhost:5007
+
+GET {{MessaggiKeycloak_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
